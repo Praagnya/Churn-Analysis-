@@ -13,3 +13,8 @@ protection, tech support, and streaming TV and movies
 charges, and total charges
 • Demographic info about customers – gender, age range, and if they have partners and dependents
 
+• PROJECT OBJECTIVE: Build a model that will help to identify the potential customers who have a higher probability to churn. 
+This help the company to understand the pinpoints and patterns of customer churn and will increase the focus on strategising 
+customer retention.
+
+This project was done as a part of PGP in AI-ML!
